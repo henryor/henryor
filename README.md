@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm henry Ortegon G</h1>
+<h1 align="center">Hi 👋, I'm Henry Ortegon G</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
 - 👯 I’m looking to collaborate on **Holberton school**
